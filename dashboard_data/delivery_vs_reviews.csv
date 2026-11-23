@@ -1,0 +1,6 @@
+delay_bucket,orders,avg_review,bad_review_pct
+1. On time or early,89443,4.29,9.2
+2. Late 1-3 days,1852,3.29,32.2
+3. Late 4-7 days,1748,2.11,67.6
+4. Late 8-14 days,1446,1.67,80.1
+5. Late 15+ days,1335,1.73,78.2
